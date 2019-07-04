@@ -1,4 +1,4 @@
-/*	combination algorithm 
+/*	combination algorithm. N choose K 
 	Vector can also be used
 */
 
