@@ -175,6 +175,9 @@
             <mxPoint x="340" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MA4NjYnAYvALY4JWosla-19" value="The table in the first normal form (1NF) " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="550" width="330" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
